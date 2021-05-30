@@ -2,7 +2,7 @@
   <img width="200" src="https://cdn.discordapp.com/attachments/848678158861074433/848678387526402058/Endless-Bullets.png" alt="Gunchi Mod - Made by Gunchi" align="center">
 </p>
 
-<h1 align="center" style="margin-top: 0px;">PredMod</h1>
+<h1 align="center" style="margin-top: 0px;">Gunchi Mod</h1>
 
  <p align="center">
     A Venge mod that brings some UI changes to the game.
