@@ -22,7 +22,7 @@
 ## Installation Methods
 
 #### Quick Installation
-1. Right click [Gunchi Mod](https://github.com/Tomogunchi/Gunchi-Mod/releases/download/alpha/Gunchi.Mod.ALPHA.zip) and click "Copy Link Address"
+1. Right click [Gunchi Mod](https://github.com/Tomogunchi/Gunchi-Mod/releases/download/v2/GunchiMod.v2.zip) and click "Copy Link Address"
 2. Go to your Venge Client settings
 3. Go to **Client**
 4. Paste the link into the **Resource URL** box
@@ -31,5 +31,6 @@
 #### Manual Installation
 1. Download the [latest release here](https://github.com/Tomogunchi/Gunchi-Mod/releases/download/alpha/Gunchi.Mod.ALPHA.zip "Latest Release").
 2. Download and open **Gunchi.Mod.Alpha.zip**
-3. Extract the contents of **Gunchi.Mod.Alpha.zip** into your Venge Client resource swapper
-4. Launch or restart your client
+3. Extract the "files" folder from **Gunchi.Mod.Alpha.zip** into your Venge Client resource swapper
+4. Extract the "gunchimodscript.js" & "charfix.js" into your Venge Client userscripts folder
+5. Launch or restart your client
